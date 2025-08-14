@@ -1,2 +1,2 @@
-# Taller-pro
-App taller
+# Taller Pro
+Instrucciones de uso.

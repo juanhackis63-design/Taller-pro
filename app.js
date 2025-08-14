@@ -1,0 +1,1 @@
+console.log("Taller Pro app cargada");
